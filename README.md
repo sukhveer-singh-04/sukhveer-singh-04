@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋🏻, I'm Sukhveer Singh 👨🏻‍💻</h1>
 
+
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1CaoWz0m2D0EjAiNF_qfHiT9HQ8RZ6Hz6" alt="Sukhveer Singh Banner" width="100%" style="height:320px; object-fit:cover;" />
 </p>
+
+---
+<h3 align="center">Building impactful and scalable web solutions with the MERN Stack. Let's create! ✨</h3>
 
 ---
 
