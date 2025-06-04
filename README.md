@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋🏻, I'm Sukhveer Singh 👨🏻‍💻</h1>
 
-
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1CaoWz0m2D0EjAiNF_qfHiT9HQ8RZ6Hz6" alt="Sukhveer Singh Banner" width="100%" style="height:320px; object-fit:cover;" />
 </p>
@@ -49,6 +48,22 @@ Here are a few projects I've worked on:
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,ts,js,redis,git,github,html,css,postman,gitlab" height="40" />
+</div>
+
+---
+
+## 📁 My GitHub Repos
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+
+  <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sukhveer-singh-04&repo=UNICLUB&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="UNICLUB Repo">
+
+  <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sukhveer-singh-04&repo=Expense-Tracker&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Expense Tracker Repo">
+
+  <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sukhveer-singh-04&repo=Blinkit-Clone&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Blinkit Clone Repo">
+
+  <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sukhveer-singh-04&repo=Gemini-Clone&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Gemini Clone Repo">
+
 </div>
 
 ---
